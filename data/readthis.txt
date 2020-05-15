@@ -1,0 +1,22 @@
+ABOUT
+This game is a small learning experiment and it's
+by no means a complete game. However, if you wish
+to turn it into one, you're free to fork it, as
+long as you respect the license.
+
+I also happily accept pull requests.
+
+
+HOW TO PLAY
+Use WASD to move, mouse to look around. Left click
+to fire. Change weapons with numbers (1, 2, 3).
+
+
+SOUND CREDITS
+- Michael Baradari
+- AmeAngelofSin (freesound)
+- IFartInUrGeneralDirection (freesound)
+- Vinrax (freesound)
+
+Thanks for giving a go.
+                          The author, Marko Stanic.
