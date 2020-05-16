@@ -8,10 +8,12 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(OpenGL_GL_PREFERENCE GLVND)
 
 find_package(SDL2 REQUIRED)
+find_package(SDL2_mixer REQUIRED)
 find_package(OpenGL 3.3 REQUIRED)
 
 set(MAU_INCLUDES
     ${SDL2_INCLUDE_DIRS}
+    ${SDL2_mixer_INCLUDE_DIRS}
     include
 	${CMAKE_SOURCE_DIR}/third-party/glm
 	${CMAKE_SOURCE_DIR}/third-party/Catch
