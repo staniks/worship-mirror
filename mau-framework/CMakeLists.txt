@@ -8,7 +8,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(OpenGL_GL_PREFERENCE GLVND)
 
 find_package(SDL2 REQUIRED)
-find_package(SDL2_mixer REQUIRED)
 find_package(OpenGL 3.3 REQUIRED)
 
 set(MAU_INCLUDES
